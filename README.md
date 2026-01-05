@@ -27,6 +27,8 @@
 - pandas
 - Jupyter Notebook
 
+
+## Запуск
 git clone <URL_ВАШЕГО_РЕПОЗИТОРИЯ>
 cd crypto-parser
 python3 -m venv venv
